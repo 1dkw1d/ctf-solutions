@@ -17,7 +17,7 @@
   border-right: 2px solid #00ffcc;
   white-space: nowrap;
   overflow: hidden;
-  width: 6ch; /* Final width after typing */
+  width: 6ch;
   animation: typing 2s steps(6) forwards, blink 0.7s step-end infinite;
 }
 </style>
