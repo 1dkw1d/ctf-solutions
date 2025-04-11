@@ -1,5 +1,10 @@
 <!-- Typing animation for GitHub Pages markdown -->
-
+<style>
+body {
+  background-color: #1e1e1e;
+  margin: 0;
+  padding: 2rem;
+}
 <style>
 @keyframes typing {
   from { width: 0 }
