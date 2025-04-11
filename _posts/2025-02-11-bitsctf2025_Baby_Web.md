@@ -13,6 +13,7 @@ this allows users to modify their own token and authenticate themselves. After l
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/824b1cba-f0fb-4b49-9932-f2e0ac021855" />
 
 
+
 The token is seen here and agian can also be found in the local storage of the website. Seeing this I plugged the token into token.dev to see that it used RS256 for encryption. 
 
 {
