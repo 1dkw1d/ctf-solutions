@@ -18,11 +18,11 @@ body {
 .typewriter {
   font-size: 1.5rem;
   font-family: 'Courier New', Courier, monospace;
-  color: #00ffcc;
-  border-right: 2px solid #00ffcc;
+  color: #2E6F40;
+  border-right: 2px solid #2E6F40;
   white-space: nowrap;
   overflow: hidden;
-  width: 6ch;
+  width: 8ch;
   animation: typing 2s steps(6) forwards, blink 0.7s step-end infinite;
 }
 </style>
