@@ -1,4 +1,10 @@
-<!-- Animated Typing Effect in Markdown -->
+<!-- Typing animation for GitHub Pages markdown -->
+<style>
+body {
+  background-color: #1e1e1e;
+  margin: 0;
+  padding: 2rem;
+}
 <style>
 @keyframes typing {
   from { width: 0 }
@@ -10,14 +16,14 @@
 }
 
 .typewriter {
-  font-size: 3rem;
+  font-size: 1.5rem;
   font-family: 'Courier New', Courier, monospace;
   color: #00ffcc;
   border-right: 2px solid #00ffcc;
   white-space: nowrap;
   overflow: hidden;
-  width: 0;
-  animation: typing 2s steps(6), blink 0.7s step-end infinite;
+  width: 6ch;
+  animation: typing 2s steps(6) forwards, blink 0.7s step-end infinite;
 }
 </style>
 
