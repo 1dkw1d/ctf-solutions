@@ -1,3 +1,25 @@
----
-title: CTF Writeups!!!
----
+<!-- Typing animation for GitHub Pages markdown -->
+
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 6ch }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+
+.typewriter {
+  font-size: 1.5rem;
+  font-family: 'Courier New', Courier, monospace;
+  color: #00ffcc;
+  border-right: 2px solid #00ffcc;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 6ch; /* Final width after typing */
+  animation: typing 2s steps(6) forwards, blink 0.7s step-end infinite;
+}
+</style>
+
+<div class="typewriter">1dkw1d</div>
