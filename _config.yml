@@ -2,3 +2,9 @@ theme: minima
 title: CTF Solves
 author: 1dkw1d
 description: A github-pages of some of my CTF writeups
+
+# Custom CSS
+minima:
+  skin: classic
+  include:
+    -custom.css
